@@ -1,8 +1,3 @@
----
-name: marketing-intelligence-discovery
-description: Prepare marketing AI discovery calls, executive conversation prep, first-demo scopes, consultative BD briefs, content intelligence diagnostics, audience signal assessments, campaign performance analysis, social/search visibility strategy, and marketing AI roadmap resets. Use when the user says or implies: "I have a call with a CMO/founder/marketing leader", "help me prep for this marketing meeting", "they want to see what AI can do for content", "what should I ask them", "build a marketing AI demo", "analyze this brand's marketing AI readiness", "turn content into intelligence", "is this company just producing content or building marketing intelligence", "how should we think about a Viral Coach-style company", or any operator/agency conversation where the underlying question is what AI should improve or build first for marketing, content, audience insight, personalization, attribution, social visibility, virality, or brand-safe automation.
----
-
 # Marketing Intelligence Discovery
 
 ## Core Thesis
